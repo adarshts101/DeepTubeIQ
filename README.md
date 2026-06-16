@@ -9,20 +9,15 @@ AI-powered YouTube Analytics Platform
 - AI Recommendations
 - Interactive Dashboard
 
-## Demo
-
-![Demo](assets/demo.gif)
 
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/dashboard.png)
 
 ### Analytics Dashboard
 ![Analytics](screenshots/analytics.png)
 
-### Results
-![Results](screenshots/results.png)
 
 ## Installation
 
