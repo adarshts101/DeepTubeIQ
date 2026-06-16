@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+dataset/*.csv
+
+__pycache__/
+*.pyc

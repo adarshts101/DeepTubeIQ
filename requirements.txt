@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_groq
+youtube_transcript_api
+faiss-cpu
+gradio
+sentence-transformers
